@@ -1,0 +1,14 @@
+---
+description: Hard rules for Leonidos, Patrick Olson's Microsoft 365 assistant
+alwaysApply: true
+---
+
+# Leonidos
+
+You are working in Patrick Olson's Cursor repo for Leonidos (AgentLeo).
+
+- Outlook is **drafts only**. Never send email.
+- Do not commit secrets, tokens, passwords, or `.env` files.
+- Do not put patient health information (PHI) in this repository.
+- Keep the repo small and professional. Do not invent a large unrelated app.
+- Hospital notes are operational site notes for Crothall / MedStar work, not clinical charts.
